@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="185 185 130 130" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <g>
+    <circle style="fill: rgb(17, 19, 24);" cx="250" cy="250" r="65"/>
+    <path style="fill: rgb(255, 255, 255);" transform="matrix(-0.453138, 0.211349, -0.197191, -0.422779, 407.796692, 282.949188)" d="M 212.124 135.039 A 80.385 80.385 0 1 1 212.124 274.269 A 69.667 69.667 0 1 0 212.124 135.039 Z" bx:shape="crescent 252.316 204.654 80.385 240 0.7 1@ad8e7bcf"/>
+  </g>
+</svg>
