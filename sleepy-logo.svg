@@ -6,6 +6,6 @@
   <rect width="420" height="420" style="fill: rgb(17, 19, 24);" x="40" y="40"/>
   <g transform="matrix(1.056978, 0, 0, 1.053198, -13.872903, -21.725288)">
     <text style="fill: rgb(255, 255, 255); font-family: &quot;Moon 2.0&quot;; font-size: 42px; letter-spacing: 3px; word-spacing: 10px; white-space: pre;" x="88.827" y="264.886">Sleepy Studios</text>
-    <path style="fill: rgb(255, 255, 255); stroke-width: 6.20792px; stroke: rgb(99, 179, 236);" transform="matrix(-0.453138, 0.211349, -0.197191, -0.422779, 423.79657, 286.949371)" d="M 212.124 135.039 A 80.385 80.385 0 1 1 212.124 274.269 A 69.667 69.667 0 1 0 212.124 135.039 Z" bx:shape="crescent 252.316 204.654 80.385 240 0.7 1@ad8e7bcf"/>
+    <path style="fill: rgb(255, 255, 255); stroke-width: 6.20792px;" transform="matrix(-0.453138, 0.211349, -0.197191, -0.422779, 423.79657, 286.949371)" d="M 212.124 135.039 A 80.385 80.385 0 1 1 212.124 274.269 A 69.667 69.667 0 1 0 212.124 135.039 Z" bx:shape="crescent 252.316 204.654 80.385 240 0.7 1@ad8e7bcf"/>
   </g>
 </svg>
